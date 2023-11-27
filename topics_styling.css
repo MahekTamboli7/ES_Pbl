@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    
+    margin: 20px; 
+    padding: 20px;
+    border: 2px solid black;
+    height: max-content;
+    height: 87.5vh;
+    background-color: #dbeec5;
+    overflow: auto;
+    line-height: 22px;
+          
+}
+
+.box{
+    padding: 20px;
+    margin: 20px;
+    margin-top: 20px;
+    background-color:#ccf894;
+    border: 3px solid white;
+    display: inline-block;
+}
+
+h1{
+    text-align: center;
+    height: 50px;
+    
+}
+
+
+
+ body{
+    background-color: bisque;
+ }
